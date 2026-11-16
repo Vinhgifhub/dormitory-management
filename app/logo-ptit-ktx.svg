@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="background" x1="25" y1="12" x2="231" y2="244" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#102B40"/>
+      <stop offset="1" stop-color="#071725"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="70" y1="58" x2="185" y2="204" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#82F3FF"/>
+      <stop offset="1" stop-color="#25C5EE"/>
+    </linearGradient>
+  </defs>
+  <rect x="7" y="7" width="242" height="242" rx="54" fill="url(#background)"/>
+  <rect x="14" y="14" width="228" height="228" rx="48" fill="none" stroke="#1B5069" stroke-width="2"/>
+  <path d="M54 105 128 49l74 56" fill="none" stroke="url(#cyan)" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+  <path d="M72 101h112v98a7 7 0 0 1-7 7H79a7 7 0 0 1-7-7z" fill="#0B2437" stroke="url(#cyan)" stroke-linejoin="round" stroke-width="7"/>
+  <path d="M87 119h27v24H87zM142 119h27v24h-27zM87 153h27v24H87zM142 153h27v24h-27z" fill="#A4F5FF"/>
+  <path d="M117 206v-32a11 11 0 0 1 22 0v32" fill="#27C8ED"/>
+  <path d="M117 187h22" stroke="#0B2437" stroke-width="4"/>
+</svg>
